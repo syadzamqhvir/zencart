@@ -32,7 +32,7 @@
                     <li><a href="Products">Products</a></li>
                     <li><a href="Review"></a>Review</li>
                     <li><a href="Contact"></a>Contact</li>
-                    <li><a href="Account"></a>Account</li>
+                    <li><a href="review"></a>Account</li>
                     
             </ul>
             </nav>
